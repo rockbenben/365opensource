@@ -8,6 +8,13 @@
 
 所有项目完全开源，所有人都可以免费使用。
 
+## 已完成项目
+
+| # | 项目 | 类型 | 说明 |
+|---|------|------|------|
+| 001 | [Native Batch Downloader](https://github.com/rockbenben/native-batch-downloader) | 浏览器扩展 | 浏览器原生批量下载，解决链接丢到下载工具就失败的问题 |
+| 002 | [Legend Talk](https://github.com/rockbenben/legend-talk) · [Demo](https://talk.newzone.top/) | 网页工具 | 与历史人物、名人对话，支持一对一和圆桌讨论 |
+
 ## 项目范围
 
 **✅ 接受的类型：**
