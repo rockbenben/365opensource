@@ -18,6 +18,8 @@ All projects are fully open source and free for everyone to use.
 | 002 | [Legend Talk](https://github.com/rockbenben/legend-talk) · [Demo](https://talk.newzone.top/) | Web Tool | Chat with historical figures and celebrities, supports 1-on-1 and roundtable discussions |
 | 003 | [Json2Card](https://github.com/rockbenben/json2card) | Web Tool | Convert any JSON data into beautiful shareable card images, with Web UI, CLI & REST API |
 | 004 | [MDX CLI](https://github.com/rockbenben/mdx-cli) | CLI Tool | Command-line MDX dictionary lookup with fuzzy search, multi-dictionary queries & colored output |
+| 005 | [Bring Obsidian to Front](https://github.com/rockbenben/bring-obsidian-to-front) | Obsidian Plugin | Auto-bring Obsidian window to front on popups or notifications, with keyword and scope filtering |
+| 006 | [Chat Deck](https://github.com/rockbenben/chat-deck) | CLI Tool | Local AI chat hub — unified access to Claude CLI, Gemini CLI and more, one command to start chatting |
 
 ## Project Scope
 

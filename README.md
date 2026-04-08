@@ -18,6 +18,8 @@
 | 002 | [Legend Talk](https://github.com/rockbenben/legend-talk) · [Demo](https://talk.newzone.top/) | 网页工具 | 与历史人物、名人对话，支持一对一和圆桌讨论 |
 | 003 | [Json2Card](https://github.com/rockbenben/json2card) | 网页工具 | 将任意 JSON 数据转换为精美可分享的卡片图片，支持 Web UI、CLI 和 REST API |
 | 004 | [MDX CLI](https://github.com/rockbenben/mdx-cli) | CLI 工具 | 命令行 MDX 词典查询工具，支持模糊搜索、多词典查询和彩色输出 |
+| 005 | [Bring Obsidian to Front](https://github.com/rockbenben/bring-obsidian-to-front) | Obsidian 插件 | 弹窗或通知出现时自动将 Obsidian 窗口置顶，支持关键词和监听范围过滤 |
+| 006 | [Chat Deck](https://github.com/rockbenben/chat-deck) | CLI 工具 | 本地 AI 对话中心，统一调用 Claude CLI、Gemini CLI 等，一键开聊 |
 
 ## 项目范围
 
