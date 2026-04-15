@@ -20,6 +20,8 @@ All projects are fully open source and free for everyone to use.
 | 004 | [MDX CLI](https://github.com/rockbenben/mdx-cli) | CLI Tool | Command-line MDX dictionary lookup with fuzzy search, multi-dictionary queries & colored output |
 | 005 | [Bring Obsidian to Front](https://github.com/rockbenben/bring-obsidian-to-front) | Obsidian Plugin | Auto-bring Obsidian window to front on popups or notifications, with keyword and scope filtering |
 | 006 | [Chat Deck](https://github.com/rockbenben/chat-deck) | CLI Tool | Local AI chat hub — unified access to Claude CLI, Gemini CLI and more, one command to start chatting |
+| 007 | [JuFlow](https://github.com/rockbenben/juflow) | Web Tool | Content aggregator for Chinese bloggers — real-time push from 14 platforms including Xueqiu, Jisilu, WeChat Official Accounts and more |
+| 008 | [FormPilot](https://github.com/rockbenben/form-pilot) | Browser Extension | Auto-fill job application forms — maintain resume data locally, one-click fill across recruitment platforms |
 
 ## Project Scope
 
