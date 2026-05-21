@@ -22,6 +22,8 @@
 | 006 | [Chat Deck](https://github.com/rockbenben/chat-deck) | CLI 工具 | 本地 AI 对话中心，统一调用 Claude CLI、Gemini CLI 等，一键开聊 |
 | 007 | [JuFlow](https://github.com/rockbenben/juflow) | 网页工具 | 国内博主内容聚合阅读器，关注的博主文章实时推送，覆盖雪球、集思录、微信公众号等 14 个平台 |
 | 008 | [FormPilot](https://github.com/rockbenben/form-pilot) | 浏览器扩展 | 求职网申自动填写插件，本地维护简历数据，一键填充各招聘平台申请表单 |
+| 009 | [Soundlings](https://github.com/rockbenben/soundlings) · [Demo](https://sound.newzone.top/) | 网页工具 | 给 3-10 岁孩子的安静陪玩工具，本地运行无追踪、内容全部开源授权，支持随机、睡前定时、猜声音等模式 |
+| 010 | [Dedupe Novels](https://github.com/rockbenben/dedupe-novels) | GUI / CLI 工具 | 中文小说去重工具，识别格式、标点、繁简、嵌入广告等差异版本，自动保留最佳版本 |
 
 ## 项目范围
 

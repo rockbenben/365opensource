@@ -22,6 +22,8 @@ All projects are fully open source and free for everyone to use.
 | 006 | [Chat Deck](https://github.com/rockbenben/chat-deck) | CLI Tool | Local AI chat hub — unified access to Claude CLI, Gemini CLI and more, one command to start chatting |
 | 007 | [JuFlow](https://github.com/rockbenben/juflow) | Web Tool | Content aggregator for Chinese bloggers — real-time push from 14 platforms including Xueqiu, Jisilu, WeChat Official Accounts and more |
 | 008 | [FormPilot](https://github.com/rockbenben/form-pilot) | Browser Extension | Auto-fill job application forms — maintain resume data locally, one-click fill across recruitment platforms |
+| 009 | [Soundlings](https://github.com/rockbenben/soundlings) · [Demo](https://sound.newzone.top/) | Web Tool | Privacy-first kids' companion (ages 3-10) — runs locally with zero tracking, fully open-licensed audio, plus Random / Bedtime timer / Mystery quiz modes |
+| 010 | [Dedupe Novels](https://github.com/rockbenben/dedupe-novels) | GUI / CLI Tool | Chinese novel deduplication tool — detects variants from formatting, punctuation, simplified/traditional, or embedded ads, and keeps the best version |
 
 ## Project Scope
 
