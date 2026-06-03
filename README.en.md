@@ -24,6 +24,8 @@ All projects are fully open source and free for everyone to use.
 | 008 | [FormPilot](https://github.com/rockbenben/form-pilot) | Browser Extension | Auto-fill job application forms — maintain resume data locally, one-click fill across recruitment platforms |
 | 009 | [Soundlings](https://github.com/rockbenben/soundlings) · [Demo](https://sound.newzone.top/) | Web Tool | Privacy-first kids' companion (ages 3-10) — runs locally with zero tracking, fully open-licensed audio, plus Random / Bedtime timer / Mystery quiz modes |
 | 010 | [Dedupe Novels](https://github.com/rockbenben/dedupe-novels) | GUI / CLI Tool | Chinese novel deduplication tool — detects variants from formatting, punctuation, simplified/traditional, or embedded ads, and keeps the best version |
+| 011 | [Markbook](https://github.com/rockbenben/markbook) · [Demo](https://markbook.newzone.top) | Web Tool | Scattered-text aggregating reader — turns the .md / .txt files in a folder or one big file into a continuous, searchable, exportable book; fully local, zero upload, with in-place editing |
+| 012 | [FunASR Subtitle](https://github.com/rockbenben/funasr-subtitle) | Desktop Tool | Fully local, offline Windows audio/video-to-subtitle tool based on FunASR — runs on CPU with optional CUDA acceleration, supports Chinese/Cantonese/English/Japanese/Korean, exports SRT/VTT/TXT/JSON |
 
 ## Project Scope
 

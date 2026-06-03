@@ -24,6 +24,8 @@
 | 008 | [FormPilot](https://github.com/rockbenben/form-pilot) | 浏览器扩展 | 求职网申自动填写插件，本地维护简历数据，一键填充各招聘平台申请表单 |
 | 009 | [Soundlings](https://github.com/rockbenben/soundlings) · [Demo](https://sound.newzone.top/) | 网页工具 | 给 3-10 岁孩子的安静陪玩工具，本地运行无追踪、内容全部开源授权，支持随机、睡前定时、猜声音等模式 |
 | 010 | [Dedupe Novels](https://github.com/rockbenben/dedupe-novels) | GUI / CLI 工具 | 中文小说去重工具，识别格式、标点、繁简、嵌入广告等差异版本，自动保留最佳版本 |
+| 011 | [Markbook](https://github.com/rockbenben/markbook) · [Demo](https://markbook.newzone.top) | 网页工具 | 散落文本聚合阅读器，把文件夹或大文件里的 .md / .txt 变成连续可读、可搜索、可导出的书，纯本地零上传，支持就地编辑 |
+| 012 | [FunASR Subtitle](https://github.com/rockbenben/funasr-subtitle) | 桌面工具 | 纯本地离线的 Windows 音视频转字幕工具，基于 FunASR，CPU 即可运行、可选 CUDA 加速，支持中/粤/英/日/韩，导出 SRT/VTT/TXT/JSON |
 
 ## 项目范围
 
