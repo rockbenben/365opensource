@@ -26,6 +26,11 @@ All projects are fully open source and free for everyone to use.
 | 010 | [Dedupe Novels](https://github.com/rockbenben/dedupe-novels) | GUI / CLI Tool | Chinese novel deduplication tool — detects variants from formatting, punctuation, simplified/traditional, or embedded ads, and keeps the best version |
 | 011 | [Markbook](https://github.com/rockbenben/markbook) · [Demo](https://markbook.newzone.top) | Web Tool | Scattered-text aggregating reader — turns the .md / .txt files in a folder or one big file into a continuous, searchable, exportable book; fully local, zero upload, with in-place editing |
 | 012 | [FunASR Subtitle](https://github.com/rockbenben/funasr-subtitle) | Desktop Tool | Fully local, offline Windows audio/video-to-subtitle tool based on FunASR — runs on CPU with optional CUDA acceleration, supports Chinese/Cantonese/English/Japanese/Korean, exports SRT/VTT/TXT/JSON |
+| 013 | [FillDuck](https://github.com/rockbenben/fillduck) | GUI / CLI Tool | Extension-store listing helper — one local multilingual JSON auto-filled into the Chrome / Edge / Firefox dashboard descriptions and search terms; drives your own real browser, saves drafts only, you stay in control of publishing |
+| 014 | [Hotkey Chain](https://github.com/rockbenben/hotkey-chain) | Browser Extension | Shortcuts for your browser — chain 75+ browser actions and trigger them via hotkey, address bar, right-click, schedule, or URL auto-run; with conditions, sub-chains, variables and a template gallery, across 18 languages |
+| 015 | [Thousand Lives](https://github.com/rockbenben/thousand-lives) · [Demo](https://lives.newzone.top) | Web Tool | AI-driven text life simulator — 10 scenarios, 61 achievements, pure frontend, playable with no API key, with 28 AI provider presets and custom scenarios |
+| 016 | [Text Diff](https://github.com/rockbenben/text-diff) · [Demo](https://tools.newzone.top/en/text-diff) | Web Tool | Offline two-pane text/file comparison — highlights every difference down to the word/character and locates the first one in plain language, with structure-aware CSV/TSV/INI/JSON diff, ignore whitespace/case, unified-diff `.patch` export, fully local with zero upload |
+| 017 | [ReflowPDF](https://github.com/rockbenben/reflowpdf) · [Demo](https://rockbenben.github.io/reflowpdf/) | Web Tool | Enlarge / reflow PDFs into a phone-friendly layout entirely in the browser — powered by k2pdfopt compiled to WebAssembly, no upload |
 
 ## Project Scope
 
@@ -72,9 +77,13 @@ Sponsor benefits:
 
 | Item | Details |
 |------|---------|
-| GitHub Repo | Complete source code, MIT license |
+| GitHub Repo | Complete source code, open source license (mostly MIT; some, e.g. ReflowPDF, are AGPL-3.0) |
 | README | Feature description, usage instructions, screenshots/GIFs |
 | Demo | Online demo provided for frontend projects when possible |
+
+## Project Progress
+
+👉 [View the project board](https://my.feishu.cn/base/WeK8bvz2caji41sNUjDcvpcenQd?table=tbl6RBgTyeYIbthO&view=vew6l0yNfk)
 
 ## About the Author
 

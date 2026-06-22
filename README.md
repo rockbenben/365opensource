@@ -26,6 +26,11 @@
 | 010 | [Dedupe Novels](https://github.com/rockbenben/dedupe-novels) | GUI / CLI 工具 | 中文小说去重工具，识别格式、标点、繁简、嵌入广告等差异版本，自动保留最佳版本 |
 | 011 | [Markbook](https://github.com/rockbenben/markbook) · [Demo](https://markbook.newzone.top) | 网页工具 | 散落文本聚合阅读器，把文件夹或大文件里的 .md / .txt 变成连续可读、可搜索、可导出的书，纯本地零上传，支持就地编辑 |
 | 012 | [FunASR Subtitle](https://github.com/rockbenben/funasr-subtitle) | 桌面工具 | 纯本地离线的 Windows 音视频转字幕工具，基于 FunASR，CPU 即可运行、可选 CUDA 加速，支持中/粤/英/日/韩，导出 SRT/VTT/TXT/JSON |
+| 013 | [FillDuck 填鸭](https://github.com/rockbenben/fillduck) | GUI / CLI 工具 | 浏览器扩展商店上架助手，一份本地多语言 JSON 自动填进 Chrome / Edge / Firefox 后台的描述与搜索词，驱动你本机真实浏览器、只存草稿，发布权始终在你手里 |
+| 014 | [Hotkey Chain](https://github.com/rockbenben/hotkey-chain) | 浏览器扩展 | 浏览器版「快捷指令」，把 75+ 浏览器动作编排成动作链，支持快捷键 / 地址栏 / 右键 / 定时 / 网址自动等触发方式，含条件、子链、变量与模板库，18 种语言 |
+| 015 | [千世书 Thousand Lives](https://github.com/rockbenben/thousand-lives) · [Demo](https://lives.newzone.top) | 网页工具 | AI 驱动的文字人生模拟器，10 个剧本、61 枚成就，纯前端运行、无需 Key 即玩，支持 28 家 AI 服务商预设与自定义剧本 |
+| 016 | [Text Diff](https://github.com/rockbenben/text-diff) · [Demo](https://tools.newzone.top/zh/text-diff) | 网页工具 | 离线双栏文本/文件对比，逐词逐字符高亮所有差异并一句话定位第一处不同，支持 CSV/TSV/INI/JSON 结构感知、忽略空白/大小写、导出 unified-diff `.patch`，纯本地零上传 |
+| 017 | [ReflowPDF](https://github.com/rockbenben/reflowpdf) · [Demo](https://rockbenben.github.io/reflowpdf/) | 网页工具 | 在浏览器本地把 PDF 放大 / 文字重排成适合手机阅读的版式，引擎为编译成 WebAssembly 的 k2pdfopt，文件不上传 |
 
 ## 项目范围
 
@@ -72,7 +77,7 @@
 
 | 内容        | 说明                         |
 | ----------- | ---------------------------- |
-| GitHub 仓库 | 完整源代码，MIT 协议         |
+| GitHub 仓库 | 完整源代码，开源协议（多为 MIT，个别如 ReflowPDF 为 AGPL-3.0） |
 | README      | 功能说明、使用方法、截图/GIF |
 | 演示地址    | 前端类项目尽量提供在线 Demo  |
 
