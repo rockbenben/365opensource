@@ -31,6 +31,8 @@
 | 015 | [千世书 Thousand Lives](https://github.com/rockbenben/thousand-lives) · [Demo](https://lives.newzone.top) | 网页工具 | AI 驱动的文字人生模拟器，10 个剧本、61 枚成就，纯前端运行、无需 Key 即玩，支持 28 家 AI 服务商预设与自定义剧本 |
 | 016 | [Text Diff](https://github.com/rockbenben/text-diff) · [Demo](https://tools.newzone.top/zh/text-diff) | 网页工具 | 离线双栏文本/文件对比，逐词逐字符高亮所有差异并一句话定位第一处不同，支持 CSV/TSV/INI/JSON 结构感知、忽略空白/大小写、导出 unified-diff `.patch`，纯本地零上传 |
 | 017 | [ReflowPDF](https://github.com/rockbenben/reflowpdf) · [Demo](https://rockbenben.github.io/reflowpdf/) | 网页工具 | 在浏览器本地把 PDF 放大 / 文字重排成适合手机阅读的版式，引擎为编译成 WebAssembly 的 k2pdfopt，文件不上传 |
+| 018 | [EasyVoice 易声](https://github.com/rockbenben/easyvoice) | 桌面工具 | 基于 Qwen3-TTS 的本地多语言傻瓜配音 / 声音克隆工具，3 秒克隆音色、支持 10 种语言与字幕配音，全程本地推理、有 N 卡自动 CUDA 加速，中文界面、解压双击即用 |
+| 019 | [scrcpy 投屏助手](https://github.com/rockbenben/scrcpy-helper) | 桌面工具 | 给 scrcpy 套一层免安装、双击即用、全中文的 Windows 投屏图形界面，单文件 PowerShell 脚本零依赖，有线 / 无线投屏、手机当摄像头、录屏一键搞定 |
 
 ## 项目范围
 

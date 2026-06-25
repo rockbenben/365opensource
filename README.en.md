@@ -31,6 +31,8 @@ All projects are fully open source and free for everyone to use.
 | 015 | [Thousand Lives](https://github.com/rockbenben/thousand-lives) · [Demo](https://lives.newzone.top) | Web Tool | AI-driven text life simulator — 10 scenarios, 61 achievements, pure frontend, playable with no API key, with 28 AI provider presets and custom scenarios |
 | 016 | [Text Diff](https://github.com/rockbenben/text-diff) · [Demo](https://tools.newzone.top/en/text-diff) | Web Tool | Offline two-pane text/file comparison — highlights every difference down to the word/character and locates the first one in plain language, with structure-aware CSV/TSV/INI/JSON diff, ignore whitespace/case, unified-diff `.patch` export, fully local with zero upload |
 | 017 | [ReflowPDF](https://github.com/rockbenben/reflowpdf) · [Demo](https://rockbenben.github.io/reflowpdf/) | Web Tool | Enlarge / reflow PDFs into a phone-friendly layout entirely in the browser — powered by k2pdfopt compiled to WebAssembly, no upload |
+| 018 | [EasyVoice](https://github.com/rockbenben/easyvoice) | Desktop Tool | Local, multilingual, dead-simple dubbing / voice-cloning tool built on Qwen3-TTS — 3-second voice cloning, 10 languages, subtitle dubbing, fully local inference with automatic CUDA acceleration on NVIDIA GPUs, Chinese-first UI, unzip and double-click to run |
+| 019 | [scrcpy Helper](https://github.com/rockbenben/scrcpy-helper) | Desktop Tool | A zero-install, double-click, Chinese-first GUI wrapper for scrcpy on Windows — a single dependency-free PowerShell script for wired / wireless mirroring, phone-as-webcam, and recording, all one click away |
 
 ## Project Scope
 
