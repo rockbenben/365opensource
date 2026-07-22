@@ -1,8 +1,10 @@
 # 365 Open Source Plan
 
-[中文](./README.md) | English
-
 > One person + AI, 300+ open source projects in one year.
+
+**English** · [简体中文](./README.md)
+
+[Discord](https://discord.gg/PZTQfJ4GjX) · [Telegram](https://t.me/aishort_top)
 
 ## What is This
 
@@ -27,7 +29,7 @@ All projects are fully open source and free for everyone to use.
 | 011 | [Markbook](https://github.com/rockbenben/markbook) · [Demo](https://markbook.newzone.top)                                                                                                            | Web Tool          | Turn scattered .md/.txt files into one readable, searchable, exportable book — fully local                       |
 | 012 | [FunASR Subtitle](https://github.com/rockbenben/funasr-subtitle)                                                                                                                                     | Desktop Tool      | Offline Windows audio/video-to-subtitle tool based on FunASR — CPU-friendly                                      |
 | 013 | [FillDuck](https://github.com/rockbenben/fillduck)                                                                                                                                                   | Desktop Tool      | Store-listing assistant: one local i18n JSON auto-fills Chrome/Edge/Firefox dashboards                           |
-| 014 | [Hotkey Chain](https://github.com/rockbenben/hotkey-chain)                                                                                                                                           | Browser Extension | Browser "Shortcuts": chain 75+ browser actions with hotkey/omnibox/timer triggers                                |
+| 014 | [Hotkey Chain](https://github.com/rockbenben/hotkey-chain) · [Chrome Store](https://chromewebstore.google.com/detail/hotkey-chain/kcinhmiihahdgckoonemglanjpggdldb)                                  | Browser Extension | Browser "Shortcuts": chain 75+ browser actions with hotkey/omnibox/timer triggers                                |
 | 015 | [Thousand Lives](https://github.com/rockbenben/thousand-lives) · [Demo](https://lives.newzone.top)                                                                                                   | Game              | AI-driven life simulator — 10 scripts, 61 achievements, runs fully in-browser                                    |
 | 016 | [Text Diff](https://github.com/rockbenben/text-diff) · [Demo](https://tools.newzone.top/en/text-diff)                                                                                                | Web Tool          | Offline side-by-side text/file diff with word/char highlighting and .patch export                                |
 | 017 | [ReflowPDF](https://github.com/rockbenben/reflowpdf) · [Demo](https://rockbenben.github.io/reflowpdf/)                                                                                               | Web Tool          | Reflow PDFs for phone reading in-browser via WebAssembly k2pdfopt — no upload                                    |
@@ -39,7 +41,7 @@ All projects are fully open source and free for everyone to use.
 | 023 | [QuickText](https://github.com/rockbenben/QuickText)                                                                                                                                                 | Desktop Tool      | Windows tray snippet manager & text expander — abbreviations, variable templates, images                         |
 | 024 | [Salvaging Cracked Android Screens](https://github.com/rockbenben/salvaging-cracked-android-screens)                                                                                                 | Other             | Cracked screen? Confine the Android display to the intact area and keep using it                                 |
 | 025 | [Kuafu](https://github.com/rockbenben/kuafu) · [Demo](https://kuafu.newzone.top/)                                                                                                                    | Game              | Silhouette mythology runner: chase a sun you can never reach                                                     |
-| 026 | [Text Joiner](https://github.com/rockbenben/text-joiner) · [Demo](https://tools.newzone.top/zh/text-joiner)                                                                                          | Web Tool          | Join multi-column text line-by-line via templates — CSV/SQL/JSON output, fully local                             |
+| 026 | [Text Joiner](https://github.com/rockbenben/text-joiner) · [Demo](https://tools.newzone.top/en/text-joiner)                                                                                          | Web Tool          | Join multi-column text line-by-line via templates — CSV/SQL/JSON output, fully local                             |
 | 027 | [Repo Radar](https://github.com/rockbenben/repo-radar)                                                                                                                                               | Desktop Tool      | Watches every local Git repo and queues the few that need you — unfinished work, PRs, failing CI, stale projects |
 | 028 | [Idea Hub](https://github.com/rockbenben/idea-hub) · [Demo](https://365.aishort.top)                                                                                                                 | Web Tool          | Idea collection & showcase for the 365 plan                                                                      |
 

@@ -1,8 +1,10 @@
 # 365 开源计划
 
-中文 | [English](./README.en.md)
-
 > 一个人 + AI，一年 300+ 个开源项目。
+
+[English](./README.en.md) · **简体中文**
+
+[Discord](https://discord.gg/PZTQfJ4GjX) · [Telegram](https://t.me/aishort_top)
 
 ## 这是什么
 
@@ -27,7 +29,7 @@
 | 011 | [Markbook](https://github.com/rockbenben/markbook) · [Demo](https://markbook.newzone.top)                                                                                                           | 网页工具   | 把文件夹或大文件里的 .md / .txt 变成连续可读、可搜索、可导出的书，纯本地零上传    |
 | 012 | [FunASR Subtitle](https://github.com/rockbenben/funasr-subtitle)                                                                                                                                    | 桌面工具   | 纯本地离线的 Windows 音视频转字幕工具，CPU 即可运行，支持中/粤/英/日/韩           |
 | 013 | [FillDuck 填鸭](https://github.com/rockbenben/fillduck)                                                                                                                                             | 桌面工具   | 浏览器扩展商店上架助手，一份本地多语言 JSON 自动填进 Chrome / Edge / Firefox 后台 |
-| 014 | [Hotkey Chain](https://github.com/rockbenben/hotkey-chain)                                                                                                                                          | 浏览器扩展 | 浏览器版「快捷指令」，把 75+ 浏览器动作编排成动作链，18 种语言                    |
+| 014 | [Hotkey Chain](https://github.com/rockbenben/hotkey-chain) · [Chrome 商店](https://chromewebstore.google.com/detail/hotkey-chain/kcinhmiihahdgckoonemglanjpggdldb)                                  | 浏览器扩展 | 浏览器版「快捷指令」，把 75+ 浏览器动作编排成动作链，18 种语言                    |
 | 015 | [千世书](https://github.com/rockbenben/thousand-lives) · [Demo](https://lives.newzone.top)                                                                                                          | 游戏       | AI 驱动的文字人生模拟器，10 个剧本、61 枚成就，纯前端运行、无需 Key 即玩          |
 | 016 | [Text Diff](https://github.com/rockbenben/text-diff) · [Demo](https://tools.newzone.top/zh/text-diff)                                                                                               | 网页工具   | 离线双栏文本/文件对比，逐词逐字符高亮差异，支持结构感知与导出 .patch              |
 | 017 | [ReflowPDF](https://github.com/rockbenben/reflowpdf) · [Demo](https://rockbenben.github.io/reflowpdf/)                                                                                              | 网页工具   | 在浏览器本地把 PDF 放大/文字重排成适合手机阅读的版式，文件不上传                  |
