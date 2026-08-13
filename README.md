@@ -48,6 +48,7 @@
 | 030 | [html-shot](https://github.com/rockbenben/aishort-skills/tree/main/skills/html-shot)                                                                                                                | CLI 工具   | 把 HTML、网址或 SVG 拍成像素级还原的图片：og 卡、应用图标、截图，中文与 emoji 无需打包字体 |
 | 031 | [正音](https://github.com/rockbenben/zhengyin)                                                                                                                                                      | 桌面工具   | 逐音素指出你哪个音发成了什么，配真人音 A/B、会毕业的复习队列与发音部位统计，全程本机       |
 | 032 | [飞书 / Lark 文档批量导出](https://github.com/rockbenben/feishu-lark-batch-export) · [Chrome 商店](https://chromewebstore.google.com/detail/lomkhccnocgfifghblhfidifhnilcgdi)                       | 浏览器扩展 | 在知识库树里勾一批文档，一次拿一个 zip；Markdown 图片一并存到本地，不会 24 小时后失效      |
+| 033 | [WindowShuttle](https://github.com/rockbenben/WindowShuttle)                                                                                                                              | 桌面工具  | Windows 托盘工具：手势一甩把窗口丢到另一块屏，或整屏互换；跨 DPI 按目标屏重算尺寸而非像素照搬    |
 
 ## 项目范围
 

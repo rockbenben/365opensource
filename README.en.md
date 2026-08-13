@@ -48,6 +48,7 @@ All projects are fully open source and free for everyone to use.
 | 030 | [html-shot](https://github.com/rockbenben/aishort-skills/tree/main/skills/html-shot)                                                                                                                 | CLI Tool          | Shoot any HTML, URL or SVG as a pixel-perfect image — og cards, icon sets, screenshots, CJK and emoji included    |
 | 031 | [Zhengyin](https://github.com/rockbenben/zhengyin)                                                                                                                                                   | Desktop Tool      | Names the sound you actually made, native-audio A/B, a graduating review queue and articulation stats — all local |
 | 032 | [Feishu / Lark Batch Export](https://github.com/rockbenben/feishu-lark-batch-export) · [Chrome Store](https://chromewebstore.google.com/detail/lomkhccnocgfifghblhfidifhnilcgdi)                     | Browser Extension | Tick a batch in the wiki tree, get one zip — images saved locally before their 24h links expire                   |
+| 033 | [WindowShuttle](https://github.com/rockbenben/WindowShuttle)                                                                                                                                         | Desktop Tool      | Windows tray tool: flick a window onto another monitor or swap whole screens; geometry rescaled for mixed DPI, not copied |
 
 ## Project Scope
 
