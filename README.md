@@ -4,7 +4,7 @@
 
 [English](./README.en.md) · **简体中文**
 
-[Discord](https://discord.gg/PZTQfJ4GjX) · [Telegram](https://t.me/aishort_top)
+[Discord](https://discord.gg/PZTQfJ4GjX) · [Telegram 频道](https://t.me/aishortlabs)（发布） · [Telegram 群](https://t.me/aishort_top)（讨论）
 
 ## 这是什么
 
@@ -49,6 +49,10 @@
 | 031 | [正音](https://github.com/rockbenben/zhengyin)                                                                                                                                                      | 桌面工具   | 逐音素指出你哪个音发成了什么，配真人音 A/B、会毕业的复习队列与发音部位统计，全程本机       |
 | 032 | [飞书 / Lark 文档批量导出](https://github.com/rockbenben/feishu-lark-batch-export) · [Chrome 商店](https://chromewebstore.google.com/detail/lomkhccnocgfifghblhfidifhnilcgdi)                       | 浏览器扩展 | 在知识库树里勾一批文档，一次拿一个 zip；Markdown 图片一并存到本地，不会 24 小时后失效      |
 | 033 | [WindowShuttle](https://github.com/rockbenben/WindowShuttle)                                                                                                                              | 桌面工具  | Windows 托盘工具：手势一甩把窗口丢到另一块屏，或整屏互换；跨 DPI 按目标屏重算尺寸而非像素照搬    |
+| 034 | [神仙打架](https://github.com/rockbenben/shenxian-fight) · [Demo](https://fight.newzone.top/) | 游戏 | 手机横屏格斗：左手按哪摇杆就在哪、右手五键；十二人各带八招，六关对手每趟重抽 |
+| 035 | [办事师爷](https://github.com/rockbenben/shiye) | 桌面工具 | 随手记一句话，AI 拆成带时间的任务并到点提醒；网页 / 桌面 / 安卓 / 命令行四个壳，数据全在本机 |
+| 036 | [书斋](https://github.com/rockbenben/shuzhai) | 桌面工具 | 你的文件夹就是你的书斋：上千个 txt 扫成带封面的书架，自动切目录、记到章内第几段，读完打个分 |
+| 037 | [SceneAnchor](https://github.com/rockbenben/scene-anchor) | 其他 | 给 OBS 32 的场景列表加文件夹树，树存进场景集合本身，复制改名都不丢；配颜色标签与实时搜索 |
 
 ## 项目范围
 

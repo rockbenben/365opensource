@@ -4,7 +4,7 @@
 
 **English** · [简体中文](./README.md)
 
-[Discord](https://discord.gg/PZTQfJ4GjX) · [Telegram](https://t.me/aishort_top)
+[Discord](https://discord.gg/PZTQfJ4GjX) · [Telegram Channel](https://t.me/aishortlabs) (releases) · [Telegram Group](https://t.me/aishort_top) (chat)
 
 ## What is This
 
@@ -49,6 +49,10 @@ All projects are fully open source and free for everyone to use.
 | 031 | [Zhengyin](https://github.com/rockbenben/zhengyin)                                                                                                                                                   | Desktop Tool      | Names the sound you actually made, native-audio A/B, a graduating review queue and articulation stats — all local |
 | 032 | [Feishu / Lark Batch Export](https://github.com/rockbenben/feishu-lark-batch-export) · [Chrome Store](https://chromewebstore.google.com/detail/lomkhccnocgfifghblhfidifhnilcgdi)                     | Browser Extension | Tick a batch in the wiki tree, get one zip — images saved locally before their 24h links expire                   |
 | 033 | [WindowShuttle](https://github.com/rockbenben/WindowShuttle)                                                                                                                                         | Desktop Tool      | Windows tray tool: flick a window onto another monitor or swap whole screens; geometry rescaled for mixed DPI, not copied |
+| 034 | [Gods Brawl](https://github.com/rockbenben/shenxian-fight) · [Demo](https://fight.newzone.top/) | Game | Arcade fighter for phones: floating stick, five buttons, 12 gods with 8 moves each, a fresh lineup every run |
+| 035 | [Shiye](https://github.com/rockbenben/shiye) | Desktop Tool | Jot one line, AI splits it into dated tasks and reminds you; web, desktop, Android and CLI shells, all data local |
+| 036 | [Shuzhai](https://github.com/rockbenben/shuzhai) | Desktop Tool | Your folder is your library: thousands of txt files become a cover-lined shelf with auto chapters and paragraph-level progress |
+| 037 | [SceneAnchor](https://github.com/rockbenben/scene-anchor) | Other | Folder tree for the OBS 32 scene list, stored inside the scene collection itself, so copies and renames never lose it |
 
 ## Project Scope
 
