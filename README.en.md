@@ -59,10 +59,10 @@ All projects are fully open source and free for everyone to use.
 ## Project Scope
 
 **Accepted types:**
-Browser extensions, Web tools, Python scripts / automation, Userscripts, CLI tools, Static sites / H5 pages
+Browser extensions, Web tools, Python scripts / automation, Userscripts, CLI tools, Static sites / H5 pages, Mobile apps
 
 **Not accepted:**
-SaaS requiring backend servers, Full applications requiring databases, Mobile apps, Projects requiring ongoing maintenance
+SaaS requiring backend servers, Full applications requiring databases, Projects requiring ongoing maintenance
 
 ## How to Participate
 
