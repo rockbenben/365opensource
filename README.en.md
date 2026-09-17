@@ -53,6 +53,8 @@ All projects are fully open source and free for everyone to use.
 | 035 | [Shiye](https://github.com/rockbenben/shiye) | Desktop Tool | Jot one line, AI splits it into dated tasks and reminds you; web, desktop, Android and CLI shells, all data local |
 | 036 | [Shuzhai](https://github.com/rockbenben/shuzhai) | Desktop Tool | Your folder is your library: thousands of txt files become a cover-lined shelf with auto chapters and paragraph-level progress |
 | 037 | [SceneAnchor](https://github.com/rockbenben/scene-anchor) | Other | Folder tree for the OBS 32 scene list, stored inside the scene collection itself, so copies and renames never lose it |
+| 038 | [Free LLM Intel](https://github.com/rockbenben/free-llm-intel) | Automation | Daily auto-crawl of free API quotas across 62 LLM vendors — AI review fires only when pages change, updates require verbatim page evidence and land as auto PRs; with free-model tables and vendor blog feeds |
+| 039 | [Text2Handwriting](https://github.com/rockbenben/text2handwriting) · [Demo](https://shouxie.newzone.top) | Web Tool | Turn plain text into handwriting that looks human — seeded randomness in font size, baseline and ink makes every run different and reproducible; 6 paper styles plus your own scanned sheet, turn your own handwriting into a font, export PNG / ZIP / PDF up to ~435 DPI, fully local |
 
 ## Project Scope
 
