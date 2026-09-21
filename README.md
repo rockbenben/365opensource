@@ -53,9 +53,9 @@
 | 035 | [办事师爷](https://github.com/rockbenben/shiye) | 桌面工具 | 随手记一句话，AI 拆成带时间的任务并到点提醒；网页 / 桌面 / 安卓 / 命令行四个壳，数据全在本机 |
 | 036 | [书斋](https://github.com/rockbenben/shuzhai) | 桌面工具 | 你的文件夹就是你的书斋：上千个 txt 扫成带封面的书架，自动切目录、记到章内第几段，读完打个分 |
 | 037 | [SceneAnchor](https://github.com/rockbenben/scene-anchor) | 其他 | 给 OBS 32 的场景列表加文件夹树，树存进场景集合本身，复制改名都不丢；配颜色标签与实时搜索 |
-| 038 | [Free LLM Intel](https://github.com/rockbenben/free-llm-intel) | 自动化 | 62 家大模型厂商免费额度每日自动巡检：仅页面变化才触发 AI 核查、更新须附页面原文证据、自动开 PR；含免费模型总表、白嫖攻略与厂商博客动态订阅 |
+| 038 | [Free LLM Intel](https://github.com/rockbenben/free-llm-intel) · [Demo](https://free-llm-intel.aishort.top) | 自动化 | 62 家大模型厂商免费额度每日自动巡检：仅页面变化才触发 AI 核查、更新须附页面原文证据、自动开 PR；含免费模型总表、白嫖攻略与厂商博客动态订阅 |
 | 039 | [手写文稿生成器](https://github.com/rockbenben/text2handwriting) · [Demo](https://shouxie.newzone.top) | 网页工具 | 把文本排成「像人写的」手稿：字号、基线、墨迹全伪随机扰动，记种子可复现；6 种纸 + 自拍空白作业纸，笔迹做成字体就能用你自己的字，导出 PNG / ZIP / PDF 最高约 435 DPI，全程本地不上传 |
-| 040 | [AI 小伙伴](https://github.com/rockbenben/kids-ai) | 移动端 App | 面向儿童的 Android 原生语音聊天应用，孩子不把话说完 AI 绝不抢话；支持随时插话打断，默认全程离线识别，保护孩子声音隐私 |
+| 040 | [AI 小伙伴](https://github.com/rockbenben/kids-ai) · [APK](https://github.com/rockbenben/365opensource/releases) | 移动端 App | 面向儿童的 Android 原生语音聊天，分段式 ASR → LLM → TTS 管线；端侧 VAD 加语义完整性判定等孩子说完再开口、宁可多等不到一秒，支持随时插话打断；默认离线识别 |
 
 ## 项目范围
 
