@@ -57,7 +57,9 @@
 | 039 | [手写文稿生成器](https://github.com/rockbenben/text2handwriting) · [Demo](https://shouxie.newzone.top) | 网页工具 | 把文本排成「像人写的」手稿：字号、基线、墨迹全伪随机扰动，记种子可复现；6 种纸 + 自拍空白作业纸，笔迹做成字体就能用你自己的字，导出 PNG / ZIP / PDF 最高约 435 DPI，全程本地不上传 |
 | 040 | [AI 小伙伴](https://github.com/rockbenben/kids-ai) · [APK](https://github.com/rockbenben/365opensource/releases) | 移动端 App | 面向儿童的 Android 原生语音聊天，分段式 ASR → LLM → TTS 管线；端侧 VAD 加语义完整性判定等孩子说完再开口、宁可多等不到一秒，支持随时插话打断；默认离线识别 |
 | 041 | [rclone-deck](https://github.com/rockbenben/rclone-deck) · [下载](https://github.com/rockbenben/rclone-deck/releases) | 桌面工具 | 给 rclone 套的 Windows 图形面板：把本地和 R2 / S3 配成一张卡，「看差异」先看再动；两边都有却不是同一份的单独列一列、说清哪边新，删除前一定先复述这一趟的方向和范围 |
-| 042 | [launchbay](https://github.com/rockbenben/launchbay) | 网页工具 | 把记不住的地址放进一页、打开就点：NAS 后台、路由、监控、常去的网站全在这一页，关掉 JavaScript 也点得动；每人一份档案，管理员读不到你的书签，批量改动前自动备份、可逐版回退 |
+| 042 | [launchbay](https://github.com/rockbenben/launchbay) | 网页工具 | 你存过却记不住的地址都放一页、打开就点：NAS 后台、路由、监控、常去的网站全在这一页，关掉 JavaScript 也点得动；每人一份档案，管理员读不到你的书签，改坏了能逐版回退；Chrome / Edge / Firefox 扩展右键就存 |
+| 043 | [格式批量生成](https://github.com/rockbenben/brace-expander) · [Demo](https://tools.newzone.top/zh/brace-expander) | 网页工具 | 不用再手打 100 个字段名：写一行 bash 花括号模板，{1..100} 展开成清单，多组花括号自动组合，套上分隔符和前后缀直接拼出完整 SQL；纯前端运算，数据不出页面，19 个语种 |
+| 044 | [md-publisher](https://github.com/rockbenben/md-publisher) · [下载](https://github.com/rockbenben/md-publisher/releases) | 桌面工具 | 写一次 Markdown，批量发到少数派 / 知乎 / 公众号 / 什么值得买 / 掘金 / X：自动填好标题和正文，最后点「发布」永远由你 |
 
 ## 项目范围
 
