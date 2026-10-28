@@ -60,6 +60,8 @@
 | 042 | [launchbay](https://github.com/rockbenben/launchbay) | 网页工具 | 你存过却记不住的地址都放一页、打开就点：NAS 后台、路由、监控、常去的网站全在这一页，关掉 JavaScript 也点得动；每人一份档案，管理员读不到你的书签，改坏了能逐版回退；Chrome / Edge / Firefox 扩展右键就存 |
 | 043 | [格式批量生成](https://github.com/rockbenben/brace-expander) · [Demo](https://tools.newzone.top/zh/brace-expander) | 网页工具 | 不用再手打 100 个字段名：写一行 bash 花括号模板，{1..100} 展开成清单，多组花括号自动组合，套上分隔符和前后缀直接拼出完整 SQL；纯前端运算，数据不出页面，19 个语种 |
 | 044 | [md-publisher](https://github.com/rockbenben/md-publisher) · [下载](https://github.com/rockbenben/md-publisher/releases) | 桌面工具 | 写一次 Markdown，批量发到少数派 / 知乎 / 公众号 / 什么值得买 / 掘金 / X：自动填好标题和正文，最后点「发布」永远由你 |
+| 045 | [生活指南](https://github.com/rockbenben/life-guide) · [下载](https://github.com/rockbenben/life-guide/releases) · [Demo](https://life.newzone.top/) | 桌面工具 | 《生活手册》拆成 518 张能照着做的卡片：剂量、步骤、耗时、禁忌逐句对着原文核过，原文写「约 5 次」就照写「约 5 次」；Windows / macOS / Linux 桌面版、Android APK 与浏览器 PWA 共用一份内容，装完离线可用，记录只留在本机，没有账号也没有服务器 |
+| 046 | [GDP 等价地图](https://github.com/rockbenben/gdp-map) · [Demo](https://gdp.newzone.top/) | 网页工具 | 选一个省或州，看它的 GDP 相当于多少个国家之和：189 个国家 + 226 个省/州（中国 34 省、美国 51 州、欧洲 94 个一级区、日本 47 都道府县），6 个指标，目标与参照物取同一年、不跨年折价；四种凑法任选，地方→世界、世界→地方两个方向，结果能存链接、能导出图，全在浏览器本地算 |
 
 ## 项目范围
 
