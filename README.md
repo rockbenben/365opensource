@@ -62,6 +62,7 @@
 | 044 | [md-publisher](https://github.com/rockbenben/md-publisher) · [下载](https://github.com/rockbenben/md-publisher/releases) | 桌面工具 | 写一次 Markdown，批量发到少数派 / 知乎 / 公众号 / 什么值得买 / 掘金 / X：自动填好标题和正文，最后点「发布」永远由你 |
 | 045 | [生活指南](https://github.com/rockbenben/life-guide) · [下载](https://github.com/rockbenben/life-guide/releases) · [Demo](https://life.newzone.top/) | 桌面工具 | 不用每次翻书才知道该做什么、怎么做：今天要做哪几件直接列给你，展开就是逐句对着原文核过的剂量、步骤、耗时和禁忌，早 7 点、晚 9 点各响一次提醒；手册全文能搜、卡名也能搜，记录只留在本机，没有账号也没有服务器 |
 | 046 | [GDP 等价地图](https://github.com/rockbenben/gdp-map) · [Demo](https://gdp.newzone.top/) | 网页工具 | 选一个省或州，立刻看出它相当于多少个国家之和：省、州、国家按同一年、同一口径对照，GDP、人均、面积、人口随你换；结论能存成链接、导出成图，全部在浏览器本地算，不用注册也不用等接口 |
+| 048 | [StashBay](https://github.com/rockbenben/stashbay) · [下载](https://github.com/rockbenben/stashbay/releases) | 桌面工具 | 跨窗口倒腾文件不用再并排开两个窗口：选中文件按 Win+Alt+S 就入箱，拖住底部把手一次把整箱拖进目标窗口，送完架空自动淡出；覆盖前先查占用、按内容寻址留快照，改错了能一键撤销，Git 切分支、网络盘、大文件与长路径都认；内置运行时解压即用，18 门语言，全程本地不联网 |
 | 049 | [EventPrep](https://github.com/rockbenben/event-prep) · [Demo](https://event.newzone.top/) | 网页工具 | 到了会场门口不用再翻长图海报和 PDF 日程：一场一张卡片按天排好，讲者背景和术语点开就看，按你的角色推荐该听哪几场并标出时间冲突，行前清单在手机里离线打勾；日程从公开资料整理，全程本地不上传 |
 
 ## 项目范围
